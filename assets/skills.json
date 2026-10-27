@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated skill levels from 0-100.",
+  "axes": [
+    { "label": "Python", "value": 85 },
+    { "label": "AI / ML", "value": 82 },
+    { "label": "Backend APIs", "value": 80 },
+    { "label": "Data Analysis", "value": 82 },
+    { "label": "Databases", "value": 78 },
+    { "label": "Web Development", "value": 75 },
+    { "label": "Git / GitHub", "value": 75 }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "_comment": "Projects to feature on Aadya's GitHub profile.",
+  "projects": [
+    {
+      "repo": "The-Fourmidables/Prompt-Shield",
+      "description": "A privacy-first AI gateway designed to help protect sensitive information in AI workflows."
+    },
+    {
+      "repo": "business-profit-simulator",
+      "description": "A business simulation project for exploring profitability and financial decisions."
+    },
+    {
+      "repo": "open-location-number",
+      "description": "An implementation of the Open Location Number project."
+    },
+    {
+      "repo": "medsys",
+      "description": "A hospital management system."
+    }
+  ]
+}
